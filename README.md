@@ -1,2 +1,2 @@
-# piano
+# Piano
 digital piano 
